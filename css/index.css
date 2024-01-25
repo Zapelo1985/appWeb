@@ -1,3 +1,9 @@
 body{
     background-color: coral;
 }
+
+table{
+    boder: collapse;
+    border-width: 2px;
+    border-color: black;
+}
