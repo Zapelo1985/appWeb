@@ -3,7 +3,18 @@ body{
 }
 
 table{
-    boder: collapse;
-    border-width: 2px;
-    border-color: black;
+    border-collapse: collapse;
+}
+
+table, td, th{
+    border: 1px solid black;
+    text-align: center;
+}
+
+td{
+    background-color: aquamarine;
+}
+
+td{
+    background-color: red;
 }
