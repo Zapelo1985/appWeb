@@ -4,11 +4,14 @@ body{
 
 header{
     background-color: blue;
+    color: black;
 }
 
 #1{
     display: flex;
     justify-content: flex-end;
+    width: 50;
+    height: 50;
 }
 
 footer{
@@ -18,7 +21,7 @@ footer{
     padding: 20px;
     margin-top: 20px;
     width: 100%;
-    position: absolute;
+    position: relative;
     bottom: 0;
 }
 
