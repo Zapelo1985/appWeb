@@ -1,5 +1,18 @@
 body{
-    background-color: coral;
+    background-color: white;
+}
+
+header{
+    background-color: blue;
+}
+
+#1{
+    display: flex;
+    justify-content: flex-end;
+}
+
+footer{
+    background-color: black;
 }
 
 table{
