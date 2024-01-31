@@ -54,6 +54,11 @@ h3{
     margin-right: auto;
 }
 
+#productos {
+    width: 200px;
+    height: 200px;
+}
+
 iframe{
     display: block;
     margin-left: auto;
