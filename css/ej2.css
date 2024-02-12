@@ -1,38 +1,36 @@
-/* Estilo para el nombre del centro */
 nombreCentro {
     display: block;
     font-weight: bold;
+    font-size: xx-large;
     margin-bottom: 10px;
     color: blueviolet;
   }
   
-  /* Estilo para el enlace web */
   web {
     display: block;
     margin-bottom: 10px;
   }
   
-  /* Estilo para los ciclos */
   ciclo {
     display: block;
     margin-bottom: 20px;
   }
   
-  /* Estilo para el nombre del ciclo */
+ 
   ciclo > nombre {
     font-weight: bold;
   }
   
-  /* Estilo para el grado */
+  
   grado {
     display: list-item;
     list-style-type: disc;
     margin-left: 20px;
   }
   
-  /* Estilo para el decreto del título */
+  
   decretoTitulo {
     display: list-item;
-    list-style-type: decimal;
+    list-style-type: disc;
     margin-left: 20px;
   }
