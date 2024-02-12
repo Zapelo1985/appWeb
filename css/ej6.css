@@ -1,0 +1,22 @@
+alumnos {
+    display: block;
+    margin: 1em;
+    padding: 1em;
+    background-color: #f9f9f9;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+alumno {
+    display: block;
+    margin: 1em;
+    padding: 1em;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+nombre, apellido, edad, residencia, sexo, pais {
+    display: block;
+    margin: 0.5em 0;
+}

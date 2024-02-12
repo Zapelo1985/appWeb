@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="css/ej6.css"?>
+<!DOCTYPE alumnos SYSTEM "alumnos.dtd">
+<alumnos>
+    <alumno id="1">
+        <nombre>David</nombre>
+        <apellido>Griñán</apellido>
+        <edad>38</edad>
+        <residencia>Montequinto</residencia>
+        <sexo>Hombre</sexo>
+        <pais>España</pais>
+    </alumno>
+    <alumno id="2">
+        <nombre>Manuel Jesús</nombre>
+        <apellido>Venegas</apellido>
+        <edad>22</edad>
+        <residencia></residencia>
+        <sexo>Hombre</sexo>
+        <pais>España</pais>
+    </alumno>
+    <alumno id="3">
+        <nombre>Alfonso</nombre>
+        <apellido>Zambrana</apellido>
+        <edad>20</edad>
+        <residencia></residencia>
+        <sexo>Hombre</sexo>
+        <pais>España</pais>
+    </alumno>
+    <alumno id="4">
+        <nombre>Jesús</nombre>
+        <apellido>García</apellido>
+        <edad>21</edad>
+        <residencia></residencia>
+        <sexo>Hombre</sexo>
+        <pais>España</pais>
+    </alumno>
+</alumnos>
