@@ -1,11 +1,7 @@
-/* Estilo para el contenedor principal (biblioteca) */
-
 biblioteca {
     font-family: Arial, sans-serif;
     margin: 20px;
 }
-  
-  /* Estilo para cada libro */
 
   libro {
     border: 1px solid #ccc;
@@ -13,8 +9,6 @@ biblioteca {
     margin-bottom: 20px;
     background-color: rgb(31, 226, 135);
   }
-  
-  /* Estilo para el título del libro */
 
   titulo {
     font-size: 18px;
@@ -22,15 +16,11 @@ biblioteca {
     color: #333;
   }
   
-  /* Estilo para el autor del libro */
-
   autor {
     font-size: 14px;
     color: #666;
   }
   
-  /* Estilo para la fecha de publicación */
-
   fechaPublicacion {
     font-size: 12px;
     color: #999;
