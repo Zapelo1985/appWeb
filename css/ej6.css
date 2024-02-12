@@ -3,7 +3,7 @@ alumnos {
     margin: 1em;
     padding: 1em;
     background-color: #f9f9f9;
-    border: 1px solid #ccc;
+    border: 1px solid #000000;
     border-radius: 4px;
 }
 
@@ -11,7 +11,7 @@ alumno {
     display: block;
     margin: 1em;
     padding: 1em;
-    background-color: #fff;
+    background-color: purple;
     border: 1px solid #ccc;
     border-radius: 4px;
 }
