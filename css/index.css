@@ -40,6 +40,14 @@ table, td, th{
     text-align: center;
 }
 
+table img {
+    transition: transform 0.3s ease;
+}
+
+table img:hover {
+    transform: scale(1.1);
+}
+
 th{
     background-color: aquamarine;
 }
