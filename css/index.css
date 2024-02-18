@@ -11,7 +11,7 @@ header, footer {
 
 .login-form {
     display: flex;
-    justify-content: left;
+    justify-content: center;
     align-items: left;
     flex-direction: column;
 }
