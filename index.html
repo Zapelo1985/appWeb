@@ -21,6 +21,7 @@
         <a href="#preview">AoS</a>
         <a href="productos.html">Catálogo</a>
         <a href="#contacta">Contacta</a>
+        <a href="#login">Inicia sesión en la página</a>
         <a href="formulario.html">Formulario de Compra</a>
     </nav>
 </header>
@@ -100,7 +101,7 @@
 
 </main>
 
-<footer id="contacta">
+<footer>
     <section>
         <article>
             <h3>Pinturas hechas para Miniaturas</h3>
@@ -139,7 +140,16 @@
     <br>
     </section>
 
-    <section>
+    <div id="login">
+        <h2>Iniciar sesión</h2>
+        <form class="login-form">
+            <input type="text" id="username" name="username" placeholder="Nombre de usuario">
+            <input type="password" id="password" name="password" placeholder="Contraseña">
+            <input type="submit" value="Iniciar sesión">
+        </form>
+    </div>
+
+    <section id="contacta">
         <article>
             <img src="img/ferrus.jpg" width="300" height="200">
             <a href="mailto:d.g.ledesma@hotmail.com">Contacta con nosotros</a>
