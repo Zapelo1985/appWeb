@@ -1,8 +1,4 @@
-body{
-    background-color: white;
-}
-
-header{
+body, header, footer {
     background-color: black;
     color: white;
     text-align: center;
@@ -13,29 +9,18 @@ header{
     bottom: 0;
 }
 
-#1{
+#1 {
     display: flex;
     justify-content: flex-end;
     width: 50;
     height: 50;
 }
 
-footer{
-    background-color: black;
-    color: white;
-    text-align: center;
-    padding: 20px;
-    margin-top: 20px;
-    width: 100%;
-    position: relative;
-    bottom: 0;
-}
-
-table{
+table {
     border-collapse: collapse;
 }
 
-table, td, th{
+table, td, th {
     border: 1px solid black;
     text-align: center;
 }
@@ -48,15 +33,15 @@ table img:hover {
     transform: scale(1.1);
 }
 
-th{
+th {
     background-color: aquamarine;
 }
 
-td{
+td {
     background-color: red;
 }
 
-h3{
+h3 {
     font-style: italic;
     margin-left: auto;
     margin-right: auto;
@@ -67,7 +52,7 @@ h3{
     height: 200px;
 }
 
-iframe{
+iframe {
     display: block;
     margin-left: auto;
     margin-right: auto;
