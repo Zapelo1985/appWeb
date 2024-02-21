@@ -47,7 +47,7 @@ body {
   }
   
   .grid-item:hover {
-    background-color: lavender;
+    background-color: rgb(74, 74, 168);
   }
   
   .header {
